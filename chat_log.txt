@@ -1,0 +1,300 @@
+User: None
+User: my name is shadin
+Bot: Sorry, I didn't understand that. Try asking something else.
+
+User: None
+User: my name is shadin
+Bot: Nice to meet you, shadin!What a wonderful name,what is your current job?
+
+User: my job is kfc
+Bot: Sorry, I didn't understand that. Try asking something else.
+
+User: job
+Bot: Good to Know ,i have some startup ideas ,if you like to know type buis
+
+User: d
+Bot: Sorry, I didn't understand that. Try asking something else.
+
+User: f
+Bot: Sorry, I didn't understand that. Try asking something else.
+
+User: shadin
+Bot: Sorry, I didn't understand that. Try asking something else.
+
+User: my name is shadin
+Bot: Nice to meet you, shadin! What a wonderful name. What is your current job?
+
+User: my job is kfc
+Bot: Good to Know, I have some startup ideas. If you'd like to know, type 'buis'
+
+User: my name is shadin
+Bot: Nice to meet you, shadin! What a wonderful name. What is your current job?
+
+User: iam job less
+Bot: Good to Know, I have some startup ideas. If you'd like to know, type 'buis'
+
+User: buis
+Bot: Before we dive into the topic, may I know your age? Type 'buiscon' to know ideas
+
+User: 18 
+Bot: Sorry, I didn't understand that. Try asking something else.
+
+User: buiscon
+Bot: Before we dive into the topic, may I know your age? Type 'buiscon' to know ideas
+
+User: 16,buiscon
+Bot: Before we dive into the topic, may I know your age? Type 'buiscon' to know ideas
+
+User: my name is shadin
+Bot: Nice to meet you, shadin! What a wonderful name. What is your current job?
+
+User: my name is shadin
+Bot: Nice to meet you, shadin! What a wonderful name. What is your current job?
+
+User: blowjob
+Bot: Good to Know, I have some startup ideas. If you'd like to know, type 'buis'
+
+User: buis
+Bot: Before we dive into the topic, may I know your age? Type 'buisncon' to know ideas
+
+User: 16,buisncon
+Bot: Before we dive into the topic, may I know your age? Type 'buisncon' to know ideas
+
+User: my name is fadil
+Bot: Nice to meet you, fadil! What a wonderful name. What is your current job?
+
+User: iam jobless
+Bot: Good to Know, I have some startup ideas. If you'd like to know, type 'buis'
+
+User: buis
+Bot: Before we dive into the topic, may I know your age? Type 'buincon' to know ideas
+
+User: 18, buincon
+User: my name is shadin
+Bot: Nice to meet you, shadin! What a wonderful name. What is your current job?
+
+User: i have no job
+Bot: Good to Know, I have some startup ideas. If you'd like to know, type 'buis'
+
+User: buis
+Bot: Before we dive into the topic, may I know your age? Type 'buincon' to know ideas
+
+User: buincon
+User: buincon
+User: my name is shadin
+Bot: Nice to meet you, shadin! What a wonderful name. What is your current job?
+
+User: i am jobless buddy
+Bot: Good to Know, I have some startup ideas. If you'd like to know, type 'buis'
+
+User: buis
+Bot: Before we dive into the topic, may I know your age? Type 'startupp' to know ideas
+
+User: startupp
+User: what is your name
+Bot: I'm Chitter Bot 
+
+User: my name is shadin
+Bot: Nice to meet you, shadin! What a wonderful name. What is your current job?
+
+User: iam jobless thats why iam here
+Bot: Good to Know, I have some startup ideas. If you'd like to know, type 'buis'
+
+User: buis
+Bot: Before we dive into the topic, may I know your age? Type 'startupp' to know ideas
+
+User: 16,startupp
+Bot: Here is a business idea for your age:  FarmFresh AI � An AI-powered marketplace that connects local farmers directly with urban consumers and restaurants. It predicts crop yield
+
+User: thanks thats good startup
+Bot: You're welcome! Do you want to know about job-getting apps? If yes, type 'jobapp'
+
+User: jobapp
+Bot: Good to Know, I have some startup ideas. If you'd like to know, type 'buis'
+
+User: thanks
+Bot: You're welcome! Do you want to know about job-getting apps? If yes, type 'app'
+
+User: app
+Bot: There are many apps! Here are some: LinkedIn, Naukri, Indeed. May I know your qualifications?
+
+User: bca
+Bot: Sorry, I didn't understand that. Try asking something else.
+
+User: my name is shammas
+Bot: Nice to meet you, shammas! What a wonderful name. What is your current job?
+
+User: job less
+Bot: Good to Know, I have some startup ideas. If you'd like to know, type 'buis'
+
+User: buis
+Bot: Before we dive into the topic, may I know your age? Type 'startupp' to know ideas
+
+User: 12,ok iam typing startupp
+Bot: Here is a business idea for your age:  FarmFresh AI � An AI-powered marketplace that connects local farmers directly with urban consumers and restaurants. It predicts crop yield
+
+User: thanks i like it
+Bot: You're welcome! Do you want to know about job-getting apps? If yes, type 'app'
+
+User: shammas
+Bot: Sorry, I didn't understand that. Try asking something else.
+
+User: my name is poorimon in malasiyoisa
+Bot: Nice to meet you, poorimon! What a wonderful name. What is your current job?
+
+User: why are asking about such stupid things
+Bot: Hello! How can I assist you today?
+
+User: i want burger recipe
+Bot: Sorry, I didn't understand that. Try asking something else.
+
+User: bye
+Bot: Goodbye! Have a great day!
+
+User: my name is shadin
+Bot: Nice to meet you, shadin! May I know your age?
+
+User: 20 is my age
+Bot: Sorry, I didn't understand that. Try asking something else. I'm still learning.
+
+User: 20
+Bot: Great! What's your qualification? (UG, PG, Nothing)
+
+User: ug
+Bot: Thanks! Could you please provide your email?
+
+User: shadin@gmail.com
+Bot:  All set! Your details have been saved. We'll contact you with job updates soon.
+
+User: 7uy6hy
+Bot: Sorry, I didn't understand that. Try asking something else. I'm still learning.
+
+User: what learning
+Bot: Sorry, I didn't understand that. Try asking something else. I'm still learning.
+
+User: go fuck
+Bot: Sorry, I didn't understand that. Try asking something else. I'm still learning.
+
+User: hi
+Bot: Hello! How can I assist you today?
+
+User: i want  blowjob
+Bot: Good to Know, I have some startup ideas. If you'd like to know, type 'buis'
+
+User: buis
+Bot: Before we dive into the topic, may I know your age? Type 'startupp' to know ideas
+
+User: 15
+Bot: Great! What's your qualification? (UG, PG, Nothing)
+
+User: ug
+Bot: Thanks! Could you please provide your email?
+
+User: my name is shammas
+Bot: Nice to meet you, shammas! May i know your job?
+
+User: iam jobless
+Bot: Good to Know, I have some startup ideas. If you'd like to know, type 'buis'
+
+User: buis
+Bot: Before we dive into the topic, may I know your age? Type 'startupp' to know ideas
+
+User: 18
+Bot: Great! What's your qualification? (UG, PG, Nothing)
+
+User: my name is hari
+Bot: Nice to meet you, hari! May i know your job?
+
+User: job is no job lol
+Bot: Good to Know, I have some startup ideas. If you'd like to know, type 'buis'
+
+User: buis
+Bot: Before we dive into the topic, may I know your age? Type 'startupp' to know ideas
+
+User: 20
+Bot: Great! What's your qualification? (UG, PG, Nothing)
+
+User: ug
+Bot: Oh, you're a graduate. Try upskilling your degree — Google it! If you provide your email, I can send job links.
+
+User: hari@gmail.com
+Bot:  All set! Your details have been saved. We'll contact you with job updates soon.
+
+User: startupp
+Bot: 1) FarmFresh AI – An AI-powered marketplace connecting local farmers with urban consumers and restaurants. Want more? Type 'more'
+
+User: more
+Bot: 2) SkillBridge – A platform matching students and freshers with real-world micro-projects. Want job apps? Type 'app'
+
+User: app
+Bot: There are many apps! Here are some: LinkedIn, Naukri, Indeed. May I know your qualifications (UG, PG, Nothing)?
+
+User: thanks
+Bot: You're welcome! Do you want to know about job-getting apps? If yes, type 'app'
+
+User: no
+Bot: Sorry, I didn't understand that. Try asking something else. I'm still learning.
+
+User: bye
+Bot: Goodbye! Have a great day!
+
+User: ug
+Bot: Oh, you're a graduate. Try upskilling your degree — Google it! If you provide your email, I can send job links.
+
+User: my name is shadin
+Bot: Nice to meet you, shadin! May i know your job?
+
+User: no job
+Bot: Good to Know, I have some startup ideas. If you'd like to know, type 'buis'
+
+User: buis
+Bot: Before we dive into the topic, may I know your age? Type 'startupp' to know ideas
+
+User: 35
+Bot: Great! What's your qualification? (UG, PG, Nothing (ignore if provided))
+
+User: ug
+Bot: Oh, you're a graduate. Try upskilling your degree — Google it! If you provide your email, I can send job links.
+
+User: bms@gmail.com
+Bot:  All set! Your details have been saved. We'll contact you with job updates soon.
+
+User: ok bye
+Bot: Goodbye! Have a great day!
+
+User: my name is shadin
+Bot: Nice to meet you, shadin! May i know your job?
+
+User: my name is shadin
+Bot: Nice to meet you, shadin! May i know your job?
+
+User: iam jobless
+Bot: Good to Know, I have some startup ideas. If you'd like to know, type 'buis'
+
+User: buis
+Bot: Before we dive into the topic, may I know your age? Type 'startupp' to know ideas
+
+User: 37
+Bot: Great! What's your qualification? (UG, PG, Nothing (ignore if provided))
+
+User: startup
+Bot: Sorry, I didn't understand that. Try asking something else. I'm still learning.
+
+User: startupp
+Bot: 1) FarmFresh AI – An AI-powered marketplace connecting local farmers with urban consumers and restaurants. Want more? Type 'more'
+
+User: more
+Bot: 2) SkillBridge – A platform matching students and freshers with real-world micro-projects. Want job apps? Type 'app'
+
+User: app
+Bot: There are many apps! Here are some: LinkedIn, Naukri, Indeed. May I know your qualifications (UG, PG, Nothing(ignore if provided))?
+
+User: ug
+Bot: Oh, you're a graduate. Try upskilling your degree — Google it! If you provide your email, I can send job links.
+
+User: aaaa@gmail.com
+Bot:  All set! Your details have been saved. We'll contact you with job updates soon.
+
+User: bye
+Bot: Goodbye! Have a great day!
+
